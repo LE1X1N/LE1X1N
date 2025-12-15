@@ -1,6 +1,6 @@
 <div align="center">
 
-✨ **Now is better than never!** ✨
+✨ **You Only Live Once!** ✨
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LE1X1N/LE1X1N/output/github-contribution-grid-snake-dark.svg">
